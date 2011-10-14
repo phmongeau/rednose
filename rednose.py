@@ -40,7 +40,7 @@ failure = 'FAILED'
 error = 'ERROR'
 success = 'passed'
 skip = 'skipped'
-line_length = 77
+line_length = 70
 
 class RedNose(nose.plugins.Plugin):
 	env_opt = 'NOSE_REDNOSE'
